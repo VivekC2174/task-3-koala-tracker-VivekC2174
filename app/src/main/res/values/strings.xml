@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title/ name</string>
+    <string name="crime_title_label">Title / Name</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="new_crime">New kOALA</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Koala Report</string>
+    <string name="crime_report">%1$s!
+        The kOALA was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">Koala Report</string>
+    <string name="send_report">Send Koala report via</string>
+    <string name="crime_photo_button_description">Take photo of The Koala</string> <string name="crime_photo_no_image_description">
+        Crime scene photo (not set)
+    </string>
+    <string name="crime_photo_image_description">Koala photo (set)</string>
+</resources>
